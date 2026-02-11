@@ -1,5 +1,5 @@
 #### Version 1.2
-- Filters for MOSFET??
+- Ceramic capacitor changed fo tantalum
 #### Version 1.1
 - LED IO chnged from 21 to 9
 - FSPI_CS IO changed to 3
